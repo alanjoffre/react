@@ -1,2 +1,2 @@
 # React
-Repositório com aprendizado e exercícios: React
+- Repositório com: artigos, aprendizados, exercícios e projetos.
